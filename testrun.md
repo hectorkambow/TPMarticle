@@ -22,5 +22,13 @@ The Department of Defense (DoD) has stated since 2014 that new computer assets w
 
 Many other departments and organizations can be wise in implementing TPM solutions in their cyber security practices.
 
+### A TPM can also be used for:
+
+- Managing Digital Rights
+- Enforcing and Protecting Digital Rights
+- Fraud Prevention wit Online Video Games
+
 Security is an ongoing and raising concern, and learning more about the tools 
-at hand and that exist is key in understanding how it can affect us.
+at hand and that exist is key in understanding how it can affect us. 
+More imporantly how we can use it to our advantage. 
+
